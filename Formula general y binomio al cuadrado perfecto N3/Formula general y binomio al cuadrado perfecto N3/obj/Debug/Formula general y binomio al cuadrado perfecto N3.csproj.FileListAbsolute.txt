@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Formula general y binomio al cuadrado perfecto N3\Formula general y binomio al cuadrado perfecto N3\bin\Debug\Formula general y binomio al cuadrado perfecto N3.exe.config
+C:\Users\Dell\source\repos\Formula general y binomio al cuadrado perfecto N3\Formula general y binomio al cuadrado perfecto N3\bin\Debug\Formula general y binomio al cuadrado perfecto N3.exe
+C:\Users\Dell\source\repos\Formula general y binomio al cuadrado perfecto N3\Formula general y binomio al cuadrado perfecto N3\bin\Debug\Formula general y binomio al cuadrado perfecto N3.pdb
+C:\Users\Dell\source\repos\Formula general y binomio al cuadrado perfecto N3\Formula general y binomio al cuadrado perfecto N3\obj\Debug\Formula general y binomio al cuadrado perfecto N3.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Formula general y binomio al cuadrado perfecto N3\Formula general y binomio al cuadrado perfecto N3\obj\Debug\Formula general y binomio al cuadrado perfecto N3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Formula general y binomio al cuadrado perfecto N3\Formula general y binomio al cuadrado perfecto N3\obj\Debug\Formula general y binomio al cuadrado perfecto N3.exe
+C:\Users\Dell\source\repos\Formula general y binomio al cuadrado perfecto N3\Formula general y binomio al cuadrado perfecto N3\obj\Debug\Formula general y binomio al cuadrado perfecto N3.pdb
